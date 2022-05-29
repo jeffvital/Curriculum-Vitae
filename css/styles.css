@@ -1,0 +1,14 @@
+body {
+  background-color: #D6E5FA;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+h1, h3 {
+  color: teal;
+}
